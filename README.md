@@ -12,21 +12,13 @@ This project aims to build a multi-class dog breed prediction system. The proble
 
 # Technologies used
 Pickle
-
 Pandas
-
 Numpy
-
 Tensorflow
-
 Tensorflow hub
-
 Keras
-
 datetime
-
 Tensorboard
-
 Matplotlib
 
 # Model Used
